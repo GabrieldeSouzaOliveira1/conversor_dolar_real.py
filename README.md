@@ -21,7 +21,7 @@ Este código permite a conversão de valores entre **Dólar e Real**, utilizando
 Sistema de conversão de moedas
 ============================
 
-Para converter Dólar para Real digite [ 1 ]
+Para converter Dólar para Real digite [ 1 ] 
 Para converter Real para Dólar digite [ 2 ]
 Para sair do comando digite [ 0 ]
 ```
