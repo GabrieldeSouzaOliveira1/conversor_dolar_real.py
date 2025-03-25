@@ -30,8 +30,11 @@ Para sair do comando digite [ 0 ]
 
 ##  Propriedade
 Este código foi desenvolvido por: **Gabriel de Souza Oliveira**
+
 Orientado pelo professor: *Thiago Araujo*
+
 Local: *Senai Suzanadias*
+
 Data: *25/03/24*
 
 ## 📬 Entre em contato
