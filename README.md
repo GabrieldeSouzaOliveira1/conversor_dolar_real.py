@@ -3,7 +3,7 @@
 ##  Introdução
 Este código permite a conversão de valores entre **Dólar e Real**, utilizando a cotação atualizada fornecida pela API **AwesomeAPI**. O usuário pode optar por converter valores de **Reais para Dólares** ou vice-versa de forma simples e rápida.
 
-## 🛠 Funcionamento
+##  Funcionamento
 - Obtém automaticamente a cotação do dólar.
 - Permite a conversão de valores entre **Real e Dólar** e vice-versa.
 - Interface interativa no terminal.
