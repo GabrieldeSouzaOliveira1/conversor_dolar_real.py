@@ -18,26 +18,6 @@ Este código permite a conversão de valores entre **Dólar e Real**, utilizando
  ├── README.md           # Documentação do projeto
 ```
 
-##  Como utilizar
-### 1️ Clone este repositório
-```sh
-git clone https://github.com/seu-usuario/conversor-moedas.git
-cd conversor-moedas
-```
-
-### 2️ Instale as dependências
-Certifique-se de ter o Python instalado e instale a biblioteca **requests**:
-```sh
-pip install requests
-```
-
-### 3️ Execute o programa
-```sh
-python main.py
-```
-
-##  Exemplo de Uso
-```
 Sistema de conversão de moedas
 ============================
 
